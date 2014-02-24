@@ -26,7 +26,7 @@ where any of the following symbols can be appended to the title:
 
 Each line in the file contains one book, for instance:
 
-John Adams^*@ by David McCullough (2/20/2014)
+    John Adams^*@ by David McCullough (2/20/2014)
 
 In the above example, the ^\*@ indicates that this was not the first time I read the book (^), that I recommend the book (*) and that this particular reading was an audio-book (@).
 
