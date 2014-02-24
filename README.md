@@ -32,7 +32,7 @@ In the above example, the ^\*@ indicates that this was not the first time I read
 
 If you vary from this formatting, the way the list is displayed in WordPress may have unexpected results, unless you update the code that parses the list.
 
-To see my completed text file list see [this link](https://dl.dropboxusercontent.com/u/1426302/reading.txt).
+To see my completed reading.txt file see [this link](https://dl.dropboxusercontent.com/u/1426302/reading.txt).
 
 # How to use the shortcode
 
