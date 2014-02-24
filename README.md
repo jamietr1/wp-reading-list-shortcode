@@ -42,3 +42,9 @@ If you vary from this formatting, the way the list is displayed in WordPress may
    to include the URL to your reading list text file.
 3. To use the shortcode, enter [ReadingList] anywhere in WordPress (pages, posts, widgets) and the shortcode will expand the full list.
 
+For example, here is the full text of my reading list page (linked to above):
+
+```This is my official reading list, containing all of the books that I have read and completed since January 1, 1996. Versions of this list are also available on Goodreads and LibraryThing. Bold titles indicate my favorite books. Blue titles indicate books I've read on the Kindle. Orange titles indicate audiobooks. A ^after the title indicates a re-read of the book.
+
+[ReadingList]```
+
