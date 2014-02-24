@@ -34,13 +34,9 @@ If you vary from this formatting, the way the list is displayed in WordPress may
 
 # How to use the shortcode
 
-1. Add the get\_reading\_list() function to your functions.php file, or better yet, create a child them and copy the entire functions.php into your child theme.
-
+1. Add the get\_reading\_list() function to your functions.php file, or better yet, create a child theme and copy the entire functions.php into your child theme.
 2. Modify the line that reads:
-
     $handle = fopen('\<DROPBOX URL TO FILE GOES HERE\>', "rb");
-	
    to include the URL to your reading list text file.
-
 3. To use the shortcode, enter [ReadingList] anywhere in WordPress (pages, posts, widgets) and the shortcode will expand the full list.
 
